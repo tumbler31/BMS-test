@@ -1,8 +1,8 @@
 ---
-name: Bug report
+name: CTD report
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: ctd
 assignees: ''
 
 ---
@@ -15,8 +15,6 @@ Steps to reproduce the behavior:
 1. Used TE or campaign save, which seat did you have, single/multiplayer
 2. Sequence of events
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Crash data**
+1. xlog output (code formatted)
+2. link to full dump file
