@@ -7,8 +7,9 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the crash**
+1. A clear and concise description of what the bug is.
+2. add milestone label to indicate version of used test executable
 
 **To Reproduce**
 Steps to reproduce the behavior:
